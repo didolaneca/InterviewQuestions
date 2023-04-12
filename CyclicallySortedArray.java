@@ -18,6 +18,18 @@ public class CyclicallySortedArray {
 
         //should print 2
         System.out.println(searchSmallest(test3));
+        
+        List<Integer> test4 = List.of(167, 198, 211, 221, 241, 243, 456, 578, 699, 701, 108);
+
+        //should print 10
+        System.out.println(searchSmallest(test4));
+        
+        
+        List<Integer> test5 = List.of(167, 108);
+
+        //should print 2
+        System.out.println(searchSmallest(test5));
+        
 
     }
 
