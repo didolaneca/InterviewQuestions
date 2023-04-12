@@ -27,7 +27,7 @@ public class CyclicallySortedArray {
         
         List<Integer> test5 = List.of(167, 108);
 
-        //should print 2
+        //should print 1
         System.out.println(searchSmallest(test5));
         
 
