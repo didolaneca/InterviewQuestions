@@ -19,7 +19,7 @@ public class SortedArraySearch {
 
     /*
      * Design an efficient algorithm that takes a sorted array of distinct integers, and returns an index i such that
-     * the element at index i equals i. For example, when the input is (-2,0,2,3,6,7,9) your algorithm should return 2 or 3.
+     * the element at index i equals i. For example, when the input is (-2,0,2,4,6,7,9) your algorithm should return 2.
      * */
     public static int searchEntryEqualToItsIndex(List<Integer> A) {
         //Implement your code below 
